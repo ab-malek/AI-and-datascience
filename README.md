@@ -1,6 +1,6 @@
-# AI-and-datascience
-Topic : AI and datascience
-Course : Basic python programming
+# AI-and-data Science
+Topic : AI and data science <br>
+Course : Basic python programming <br>
 Project : Enhancing Digital Government and Economy (EDGE)
 <br>
 <br>
